@@ -4,7 +4,7 @@
     {
       "id": "0",
       "type": "Feature",
-      "properties": { "trip": 1 },
+      "properties": { "name": "BeiJing", "trip": 1 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
